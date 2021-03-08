@@ -8,7 +8,9 @@ This is a planner application that allows users to save events for each hour of 
 
 # Deployed links:
 
+https://rayaalsaedi.github.io/Day-Planner/
 
+https://github.com/rayaalsaedi/Day-Planner
  
 
  # Screenshot:
