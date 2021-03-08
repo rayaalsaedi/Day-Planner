@@ -15,4 +15,4 @@ https://github.com/rayaalsaedi/Day-Planner
 
  # Screenshot:
 
-![Screenshot of Coding Quiz](assets/screenshot.png)
+![Screenshot of Day-Planner](assets/capture.png)

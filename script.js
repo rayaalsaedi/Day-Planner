@@ -25,4 +25,7 @@ function getValue(){
     })
 }
 getValue()
+//colorCode
+
+
 })
