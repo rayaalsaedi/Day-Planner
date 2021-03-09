@@ -25,7 +25,15 @@ function getValue(){
     })
 }
 getValue()
-//colorCode
 
 
 })
+//colorCode
+function colorCode(){
+
+    var currentTime=moment().hour();
+    var compareHour=parseInt($(this).attr("id").split("-"));
+if ($(this).addClass("past"));
+}
+colorCode()
+
